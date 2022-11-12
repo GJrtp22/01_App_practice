@@ -4,6 +4,7 @@ public class Admin{
 {
 	int a=2;
 		int b=6;
+		private String s="hai";
 		
 }
 }
